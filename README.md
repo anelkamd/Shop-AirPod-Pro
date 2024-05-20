@@ -17,3 +17,9 @@ la previsiolisation du projet en image gif
 
 
 <img width="458" alt="Screenshot 2024-05-20 163150" src="https://github.com/anelkamd/Shop-AirPod-Pro/assets/133960978/248da8de-d220-41c1-ba4f-5adb707b1cb7">
+
+
+
+
+
+<img width="607" alt="Screenshot 2024-05-20 163216" src="https://github.com/anelkamd/Shop-AirPod-Pro/assets/133960978/20d5d15f-1477-4fed-b2d0-075f6309f82e">
