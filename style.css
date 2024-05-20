@@ -170,3 +170,12 @@ header img {
 .phone .detaille3 p {
     opacity: 60%;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+footer img {
+    max-width: 200px;
+}
