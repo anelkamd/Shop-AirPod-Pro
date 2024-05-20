@@ -7,7 +7,7 @@ const options = {
 const hendlesInterst = function (entries, observer) {
     entries.forEach( function (entry) {
         if (entry.entersectionRation > ratio) {
-            entry.target.classList.add('.reveils-visible')
+            entry.target.classList.add('reveils-visible')
             observer.unobserve(entry.target)
         }
     });
