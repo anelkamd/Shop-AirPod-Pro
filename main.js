@@ -12,3 +12,6 @@ const hendlesInterst = function (entrie, observer) {
         }
     });
 }
+
+const observer = new IntersectionObserver(hendlesInterst, option)
+observer.observe(document.querySelectorAll('.reveils'))
