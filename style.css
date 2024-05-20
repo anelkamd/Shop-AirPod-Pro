@@ -179,3 +179,12 @@ footer {
 footer img {
     max-width: 200px;
 }
+.reveils {
+    opacity: 0;
+    transform: translateY(30px);
+}
+.reveils-visible {
+    opacity: 1;
+    transform: translateY(0);
+    transition: 1s;
+}
