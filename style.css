@@ -179,6 +179,9 @@ footer {
 footer img {
     max-width: 200px;
 }
+footer a {
+    color: rgb(255, 183, 2);
+}
 .reveils {
     opacity: 0;
     transform: translateY(30px);
