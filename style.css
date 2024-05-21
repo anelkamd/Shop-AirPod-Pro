@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     @font-face {
-        font-family: "poppins";
+        font-family: "poppins , sans serif";
         src: url();
     }
 }
@@ -36,7 +36,7 @@ header img {
 }
 .heroheader p {
     opacity: 60%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: poppins;
 }
 .miniheader {
     display: flex;
@@ -190,4 +190,119 @@ footer a {
     opacity: 1;
     transform: translateY(0);
     transition: 1.2s cubic-bezier(.5, 0,0, 1);
+}
+@media screen and (min-width: 400px) {
+    body {
+        margin-left: 35px;
+    }
+    header img {
+        max-width: 120px; /* Augmenter la taille du logo */
+    }
+
+    .heroheader img {
+        max-width: 400px; /* Augmenter la taille de l'image */
+    }
+
+    .heroheader h3 {
+        font-size: 36px; /* Augmenter la taille du titre */
+    }
+    .miniheader {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .miniheader img {
+        max-width: 400px; /* Augmenter la taille de l'image */
+    }
+
+    .miniheader .detaille {
+        margin-left: 60px; /* Augmenter l'espace entre l'image et le texte */
+    }
+
+    .miniheader .detaille h3 {
+        font-size: 24px; /* Augmenter la taille du titre */
+    }
+
+    .boitier img {
+        max-width: 480px; /* Augmenter la taille de l'image */
+    }
+
+    .boitier .detaille1 h3 {
+        font-size: 24px; /* Augmenter la taille du titre */
+    }
+
+    .tips img {
+        max-width: 480px; /* Augmenter la taille de l'image */
+    }
+
+    .tips .detaille2 h3 {
+        font-size: 24px; /* Augmenter la taille du titre */
+    }
+
+    .phone img {
+        max-width: 480px; /* Augmenter la taille de l'image */
+    }
+
+    .phone .detaille3 h3 {
+        font-size: 24px; /* Augmenter la taille du titre */
+    }
+
+    footer img {
+        max-width: 240px; /* Augmenter la taille du logo dans le pied de page */
+    }
+}
+
+/* Styles pour les appareils mobiles */
+@media screen and (max-width: 300px) {
+    header img {
+        max-width: 60px; /* Réduire la taille du logo */
+    }
+
+    .heroheader img {
+        max-width: 280px; /* Réduire la taille de l'image */
+    }
+
+    .heroheader h3 {
+        font-size: 24px; /* Réduire la taille du titre */
+    }
+
+    .miniheader img {
+        max-width: 280px; /* Réduire la taille de l'image */
+    }
+
+    .miniheader .detaille {
+        margin-left: 20px; /* Réduire l'espace entre l'image et le texte */
+    }
+
+    .miniheader .detaille h3 {
+        font-size: 16px; /* Réduire la taille du titre */
+    }
+
+    .boitier img {
+        max-width: 320px; /* Réduire la taille de l'image */
+    }
+
+    .boitier .detaille1 h3 {
+        font-size: 16px; /* Réduire la taille du titre */
+    }
+
+    .tips img {
+        max-width: 320px; /* Réduire la taille de l'image */
+    }
+
+    .tips .detaille2 h3 {
+        font-size: 16px; /* Réduire la taille du titre */
+    }
+
+    .phone img {
+        max-width: 320px; /* Réduire la taille de l'image */
+    }
+
+    .phone .detaille3 h3 {
+        font-size: 16px; /* Réduire la taille du titre */
+    }
+
+    footer img {
+        max-width: 160px; /* Réduire la taille du logo dans le pied de page */
+    }
 }
