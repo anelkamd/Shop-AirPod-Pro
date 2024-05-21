@@ -186,5 +186,5 @@ footer img {
 .reveils-visible {
     opacity: 1;
     transform: translateY(0);
-    transition: 1s cubic-bezier(.5, 0,0, 1);
+    transition: 1.5s cubic-bezier(.5, 0,0, 1);
 }
