@@ -195,6 +195,7 @@ footer a {
     body {
         margin-left: 35px;
     }
+
     header img {
         max-width: 120px; /* Augmenter la taille du logo */
     }
@@ -254,6 +255,10 @@ footer a {
 
 /* Styles pour les appareils mobiles */
 @media screen and (max-width: 300px) {
+    body {
+        margin-left: 35px;
+    }
+
     header img {
         max-width: 60px; /* Réduire la taille du logo */
     }
@@ -264,6 +269,10 @@ footer a {
 
     .heroheader h3 {
         font-size: 24px; /* Réduire la taille du titre */
+    }
+    .miniheader {
+        display: flex;
+        flex-direction: column;
     }
 
     .miniheader img {
