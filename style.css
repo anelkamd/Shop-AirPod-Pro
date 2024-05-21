@@ -180,7 +180,7 @@ footer img {
     max-width: 200px;
 }
 .reveils {
-    opacity: 100;
+    opacity: 0;
     transform: translateY(30px);
 }
 .reveils-visible {
