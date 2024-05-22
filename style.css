@@ -197,15 +197,15 @@ footer a {
     }
 
     header img {
-        max-width: 120px; /* Augmenter la taille du logo */
+        max-width: 120px; 
     }
 
     .heroheader img {
-        max-width: 400px; /* Augmenter la taille de l'image */
+        max-width: 400px; 
     }
 
     .heroheader h3 {
-        font-size: 36px; /* Augmenter la taille du titre */
+        font-size: 36px; 
     }
     .miniheader {
         display: flex;
@@ -213,43 +213,43 @@ footer a {
     }
 
     .miniheader img {
-        max-width: 400px; /* Augmenter la taille de l'image */
+        max-width: 400px; 
     }
 
     .miniheader .detaille {
-        margin-left: 60px; /* Augmenter l'espace entre l'image et le texte */
+        margin-left: 60px; 
     }
 
     .miniheader .detaille h3 {
-        font-size: 24px; /* Augmenter la taille du titre */
+        font-size: 24px; 
     }
 
     .boitier img {
-        max-width: 480px; /* Augmenter la taille de l'image */
+        max-width: 480px; 
     }
 
     .boitier .detaille1 h3 {
-        font-size: 24px; /* Augmenter la taille du titre */
+        font-size: 24px; 
     }
 
     .tips img {
-        max-width: 480px; /* Augmenter la taille de l'image */
+        max-width: 480px;
     }
 
     .tips .detaille2 h3 {
-        font-size: 24px; /* Augmenter la taille du titre */
+        font-size: 24px; 
     }
 
     .phone img {
-        max-width: 480px; /* Augmenter la taille de l'image */
+        max-width: 480px;
     }
 
     .phone .detaille3 h3 {
-        font-size: 24px; /* Augmenter la taille du titre */
+        font-size: 24px; 
     }
 
     footer img {
-        max-width: 240px; /* Augmenter la taille du logo dans le pied de page */
+        max-width: 240px; 
     }
 }
 
@@ -260,15 +260,15 @@ footer a {
     }
 
     header img {
-        max-width: 60px; /* Réduire la taille du logo */
+        max-width: 60px; 
     }
 
     .heroheader img {
-        max-width: 280px; /* Réduire la taille de l'image */
+        max-width: 280px; 
     }
 
     .heroheader h3 {
-        font-size: 24px; /* Réduire la taille du titre */
+        font-size: 24px; 
     }
     .miniheader {
         display: flex;
@@ -276,7 +276,7 @@ footer a {
     }
 
     .miniheader img {
-        max-width: 280px; /* Réduire la taille de l'image */
+        max-width: 280px; 
     }
 
     .miniheader .detaille {
