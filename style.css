@@ -312,6 +312,6 @@ footer a {
     }
 
     footer img {
-        max-width: 160px; /* Réduire la taille du logo dans le pied de page */
+        max-width: 160px;
     }
 }
