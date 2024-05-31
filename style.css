@@ -191,6 +191,7 @@ footer a {
     transform: translateY(0);
     transition: 1.2s cubic-bezier(.5, 0,0, 1);
 }
+
 @media screen and (min-width: 400px) {
     body {
         margin-left: 35px;
