@@ -10,6 +10,6 @@ la previsiolisation du projet en image
 
 instagram : @anelka.md
 twitter : @anelka_md
-Linkedin :
+Linkedin : @anelkamd
 
 
