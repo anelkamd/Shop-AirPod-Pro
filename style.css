@@ -253,7 +253,7 @@ footer a {
     }
 }
 
-/* Styles pour les appareils mobiles */
+
 @media screen and (max-width: 300px) {
     body {
         margin-left: 35px;
