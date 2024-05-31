@@ -1,3 +1,4 @@
+// Coding by Anelka MD
 const ratio = 0.1;
 const options = {
     root: null,
